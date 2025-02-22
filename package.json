@@ -1,0 +1,13 @@
+{
+  "name": "CocosCreator-Multi-resolution-Adapter",
+  "uuid": "72ae031e-db96-4977-b97e-0daba9db5806",
+  "creator": {
+    "version": "3.8.5",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "plugin-import-2x": "1.1.10"
+    }
+  }
+}
